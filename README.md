@@ -98,24 +98,24 @@ Passionate about building <b>scalable</b>, <b>maintainable</b>, and <b>high-perf
 <table width="100%" align="center">
 <tr>
 <td width="25%" align="center">
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="80"/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" height="80"/>
 <h4>🏗️ Architecture</h4>
-<p><small><b>Microservices • Serverless<br/>Domain-Driven Design<br/>Modular & Scalable</b></small></p>
+<p><small><b>• Microservices<br/>• Serverless<br/>• Domain-Driven Design<br/>• Modular & Scalable</b></small></p>
 </td>
 <td width="25%" align="center">
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="80"/>
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" height="80"/>
 <h4>📝 Code Quality</h4>
-<p><small><b>SOLID • DRY • KISS<br/>Unit & Integration Tests<br/>Clear Documentation</b></small></p>
+<p><small><b>• SOLID Principles<br/>• DRY & KISS<br/>• Unit & Integration Tests<br/>• OpenAPI Documentation</b></small></p>
 </td>
 <td width="25%" align="center">
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="80"/>
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" height="80"/>
 <h4>⚡ Performance</h4>
-<p><small><b>Query Optimization<br/>Caching (Redis)<br/>Horizontal Scaling</b></small></p>
+<p><small><b>• Query Optimization<br/>• Redis Caching<br/>• Load Balancing<br/>• Horizontal Scaling</b></small></p>
 </td>
 <td width="25%" align="center">
-<img src="https://media.giphy.com/media/RyXVu4ZW454IM/giphy.gif" width="80"/>
+<img src="https://media.giphy.com/media/RyXVu4ZW454IM/giphy.gif" height="80"/>
 <h4>🔒 Security</h4>
-<p><small><b>JWT • OAuth 2.0<br/>RBAC/ABAC<br/>OWASP Compliance</b></small></p>
+<p><small><b>• JWT & OAuth 2.0<br/>• RBAC & ABAC<br/>• OWASP Best Practices<br/>• Data Encryption</b></small></p>
 </td>
 </tr>
 </table>
