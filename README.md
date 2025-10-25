@@ -8,14 +8,11 @@
 
 <div align="center">
   
-<a href="https://www.linkedin.com/in/gustavopalaciosv" target="_blank">
+<a href="https://www.linkedin.com/in/gustavopalaciosv" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 5px;"/>
 </a>
-<a href="mailto:gustavo.palacios.dev@outlook.com">
+<a href="mailto:gustavo.palacios.dev@outlook.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Outlook-%230078D4.svg?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" style="margin: 5px;"/>
-</a>
-<a href="https://github.com/gpalaciosvx3" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 5px;"/>
 </a>
 
 </div>
@@ -24,7 +21,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="About Me" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+<img align="right" alt="About Me" height="200" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 <h3>🎯 Full-Stack Developer | Backend Specialist</h3>
 
@@ -55,19 +52,19 @@ Passionate about building <b>scalable</b>, <b>maintainable</b>, and <b>high-perf
 
 <table>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend</td>
         <td>
             <img height="40" src="https://skillicons.dev/icons?i=nodejs,nestjs,express,typescript,spring,laravel" title="Node.js | NestJS | Express | TypeScript | Spring | Laravel" alt="Backend Stack"/>
         </td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend</td>
         <td>
             <img height="40" src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,sass" title="React | Next.js | HTML5 | CSS3 | Tailwind | SASS" alt="Frontend Stack"/>
         </td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Cloud & Serverless:</td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Cloud & Serverless</td>
         <td>
             <img height="40" src="https://skillicons.dev/icons?i=aws,azure,gcp,vercel" title="AWS | Azure | GCP | Vercel" alt="Cloud Platforms"/>
             <img height="40" src="https://avatars.githubusercontent.com/u/13742415?s=200&v=4" title="Serverless Framework" alt="Serverless Framework" width="40"/>
@@ -75,19 +72,19 @@ Passionate about building <b>scalable</b>, <b>maintainable</b>, and <b>high-perf
         </td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps & CI/CD:</td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps & CI/CD</td>
         <td>
             <img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,nginx,linux" title="Docker | Kubernetes | Jenkins | GitHub Actions | Nginx | Linux" alt="DevOps Stack"/>
         </td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database & ORM:</td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database & ORM</td>
         <td>
             <img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,dynamodb,prisma,sequelize" title="MySQL | PostgreSQL | MongoDB | Redis | DynamoDB | Prisma | Sequelize" alt="Database Stack"/>
         </td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control</td>
         <td>
             <img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket" title="Git | GitHub | GitLab | Bitbucket" alt="Development Tools"/>
         </td>
@@ -116,7 +113,7 @@ Passionate about building <b>scalable</b>, <b>maintainable</b>, and <b>high-perf
 <p><small><b>Query Optimization<br/>Caching (Redis)<br/>Horizontal Scaling</b></small></p>
 </td>
 <td width="25%" align="center">
-<img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="80"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXJvNm0yZGtvZnBqZDV1bjZ3anU4aDBpM2dvd2dlcXlnMWVkOHVobyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy.gif" width="80"/>
 <h4>🔒 Security</h4>
 <p><small><b>JWT • OAuth 2.0<br/>RBAC/ABAC<br/>OWASP Compliance</b></small></p>
 </td>
@@ -161,10 +158,10 @@ Passionate about building <b>scalable</b>, <b>maintainable</b>, and <b>high-perf
   
   <br>
   
-<a href="https://www.linkedin.com/in/gustavopalaciosv" target="_blank">
+<a href="https://www.linkedin.com/in/gustavopalaciosv" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 10px;"/>
 </a>
-<a href="mailto:gustavo.palacios.dev@outlook.com">
+<a href="mailto:gustavo.palacios.dev@outlook.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Send_me_an_Email-%230078D4.svg?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" style="margin: 10px;"/>
 </a>
   
