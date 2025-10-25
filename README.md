@@ -21,7 +21,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="About Me" height="200" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+<img align="right" alt="About Me" height="150" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 <h3>🎯 Full-Stack Developer | Backend Specialist</h3>
 
@@ -95,7 +95,7 @@ Passionate about building <b>scalable</b>, <b>maintainable</b>, and <b>high-perf
 
 ## 🎯 Development Philosophy & Expertise
 
-<table width="100%">
+<table width="100%" align="center">
 <tr>
 <td width="25%" align="center">
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="80"/>
