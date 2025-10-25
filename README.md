@@ -113,7 +113,7 @@ Passionate about building <b>scalable</b>, <b>maintainable</b>, and <b>high-perf
 <p><small><b>Query Optimization<br/>Caching (Redis)<br/>Horizontal Scaling</b></small></p>
 </td>
 <td width="25%" align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXJvNm0yZGtvZnBqZDV1bjZ3anU4aDBpM2dvd2dlcXlnMWVkOHVobyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy.gif" width="80"/>
+<img src="https://media.giphy.com/media/RyXVu4ZW454IM/giphy.gif" width="80"/>
 <h4>🔒 Security</h4>
 <p><small><b>JWT • OAuth 2.0<br/>RBAC/ABAC<br/>OWASP Compliance</b></small></p>
 </td>
